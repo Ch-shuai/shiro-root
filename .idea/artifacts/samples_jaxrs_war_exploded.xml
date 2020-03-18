@@ -1,0 +1,70 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="samples-jaxrs:war exploded">
+    <output-path>$PROJECT_DIR$/samples/jaxrs/target/samples-jaxrs-1.5.1</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>samples-jaxrs</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="samples-jaxrs" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="shiro-servlet-plugin-1.5.1.jar">
+            <element id="module-output" name="shiro-servlet-plugin" />
+          </element>
+          <element id="archive" name="shiro-web-1.5.1.jar">
+            <element id="module-output" name="shiro-web" />
+          </element>
+          <element id="library" level="project" name="Maven: org.owasp.encoder:encoder:1.2.2" />
+          <element id="archive" name="shiro-jaxrs-1.5.1.jar">
+            <element id="module-output" name="shiro-jaxrs" />
+          </element>
+          <element id="archive" name="shiro-core-1.5.1.jar">
+            <element id="module-output" name="shiro-core" />
+          </element>
+          <element id="archive" name="shiro-lang-1.5.1.jar">
+            <element id="module-output" name="shiro-lang" />
+          </element>
+          <element id="archive" name="shiro-cache-1.5.1.jar">
+            <element id="module-output" name="shiro-cache" />
+          </element>
+          <element id="archive" name="shiro-crypto-hash-1.5.1.jar">
+            <element id="module-output" name="shiro-crypto-hash" />
+          </element>
+          <element id="archive" name="shiro-crypto-core-1.5.1.jar">
+            <element id="module-output" name="shiro-crypto-core" />
+          </element>
+          <element id="archive" name="shiro-crypto-cipher-1.5.1.jar">
+            <element id="module-output" name="shiro-crypto-cipher" />
+          </element>
+          <element id="archive" name="shiro-config-core-1.5.1.jar">
+            <element id="module-output" name="shiro-config-core" />
+          </element>
+          <element id="archive" name="shiro-config-ogdl-1.5.1.jar">
+            <element id="module-output" name="shiro-config-ogdl" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.4" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="archive" name="shiro-event-1.5.1.jar">
+            <element id="module-output" name="shiro-event" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.ws.rs:javax.ws.rs-api:2.0.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.26" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.26" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.13" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/samples/jaxrs/target/samples-jaxrs-1.5.1/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="samples-jaxrs/web/Web" />
+    </root>
+  </artifact>
+</component>

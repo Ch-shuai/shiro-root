@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shiro-tools-hasher" />
+        <module name="samples-web" />
+        <module name="shiro-its-support" />
+        <module name="shiro-event" />
+        <module name="shiro-hazelcast" />
+        <module name="shiro-lang" />
+        <module name="shiro-core" />
+        <module name="shiro-crypto-hash" />
+        <module name="samples-spring-boot-web" />
+        <module name="shiro-config-ogdl" />
+        <module name="samples-spring" />
+        <module name="samples-quickstart-guice" />
+        <module name="shiro-crypto-cipher" />
+        <module name="shiro-its-guice4" />
+        <module name="shiro-its-guice3" />
+        <module name="shiro-cache" />
+        <module name="samples-aspectj" />
+        <module name="samples-guice" />
+        <module name="shiro-spring-boot-web-starter" />
+        <module name="shiro-servlet-plugin" />
+        <module name="shiro-ehcache" />
+        <module name="shiro-quartz" />
+        <module name="shiro-spring-boot-starter" />
+        <module name="samples-spring-mvc" />
+        <module name="samples-jaxrs" />
+        <module name="shiro-web" />
+        <module name="samples-sprhib" />
+        <module name="shiro-cas" />
+        <module name="shiro-config-core" />
+        <module name="shiro-guice" />
+        <module name="shiro-jaxrs" />
+        <module name="shiro-crypto-core" />
+        <module name="samples-spring-boot" />
+        <module name="samples-servlet-plugin" />
+        <module name="samples-quickstart" />
+        <module name="shiro-spring" />
+        <module name="shiro-aspectj" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="samples-aspectj" target="1.8" />
+      <module name="samples-guice" target="1.8" />
+      <module name="samples-jaxrs" target="1.8" />
+      <module name="samples-quickstart" target="1.8" />
+      <module name="samples-quickstart-guice" target="1.8" />
+      <module name="samples-servlet-plugin" target="1.8" />
+      <module name="samples-sprhib" target="1.8" />
+      <module name="samples-spring" target="1.8" />
+      <module name="samples-spring-boot" target="1.8" />
+      <module name="samples-spring-boot-web" target="1.8" />
+      <module name="samples-spring-mvc" target="1.8" />
+      <module name="samples-web" target="1.8" />
+      <module name="shiro-all" target="1.8" />
+      <module name="shiro-aspectj" target="1.8" />
+      <module name="shiro-cache" target="1.8" />
+      <module name="shiro-cas" target="1.8" />
+      <module name="shiro-config" target="1.8" />
+      <module name="shiro-config-core" target="1.8" />
+      <module name="shiro-config-ogdl" target="1.8" />
+      <module name="shiro-core" target="1.8" />
+      <module name="shiro-crypto" target="1.8" />
+      <module name="shiro-crypto-cipher" target="1.8" />
+      <module name="shiro-crypto-core" target="1.8" />
+      <module name="shiro-crypto-hash" target="1.8" />
+      <module name="shiro-ehcache" target="1.8" />
+      <module name="shiro-event" target="1.8" />
+      <module name="shiro-features" target="1.8" />
+      <module name="shiro-guice" target="1.8" />
+      <module name="shiro-hazelcast" target="1.8" />
+      <module name="shiro-integration-tests" target="1.8" />
+      <module name="shiro-its-guice3" target="1.8" />
+      <module name="shiro-its-guice4" target="1.8" />
+      <module name="shiro-its-support" target="1.8" />
+      <module name="shiro-jaxrs" target="1.8" />
+      <module name="shiro-lang" target="1.8" />
+      <module name="shiro-quartz" target="1.8" />
+      <module name="shiro-root-1.5.1" target="1.8" />
+      <module name="shiro-samples" target="1.8" />
+      <module name="shiro-servlet-plugin" target="1.8" />
+      <module name="shiro-spring" target="1.8" />
+      <module name="shiro-spring-boot" target="1.8" />
+      <module name="shiro-spring-boot-starter" target="1.8" />
+      <module name="shiro-spring-boot-web-starter" target="1.8" />
+      <module name="shiro-support" target="1.8" />
+      <module name="shiro-test-coverage" target="1.8" />
+      <module name="shiro-tools" target="1.8" />
+      <module name="shiro-tools-hasher" target="1.8" />
+      <module name="shiro-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
