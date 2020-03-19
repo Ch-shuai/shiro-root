@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ad07eb3-da4d-4d1b-a57c-2f3b98fdb24d" name="Default Changelist" comment="" />
+    <list default="true" id="6ad07eb3-da4d-4d1b-a57c-2f3b98fdb24d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/quickstart/src/main/java/Quickstart.java" beforeDir="false" afterPath="$PROJECT_DIR$/samples/quickstart/src/main/java/Quickstart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/quickstart/src/main/resources/shiro.ini" beforeDir="false" afterPath="$PROJECT_DIR$/samples/quickstart/src/main/resources/shiro.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/quickstart/target/classes/shiro.ini" beforeDir="false" afterPath="$PROJECT_DIR$/samples/quickstart/target/classes/shiro.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/spring-hibernate/samples-sprhib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/samples/spring-hibernate/samples-sprhib.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -32,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Project" />
@@ -91,6 +100,7 @@
       <updated>1584519310026</updated>
       <workItem from="1584519313517" duration="42000" />
       <workItem from="1584519369229" duration="2659000" />
+      <workItem from="1584581689213" duration="2475000" />
     </task>
     <servers />
   </component>
@@ -98,41 +108,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1584523574078">
+    <state width="397" height="466" key="DebuggerActiveHint" timestamp="1584582830349">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1584523574078" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1584523574078">
+    <state width="397" height="466" key="DebuggerActiveHint/0.0.1920.1160@0.0.1920.1160" timestamp="1584582830349" />
+    <state width="914" height="168" key="GridCell.Tab.0.bottom" timestamp="1584584036369">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1584523574078" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1584523574078">
+    <state width="914" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
+    <state width="914" height="168" key="GridCell.Tab.0.center" timestamp="1584584036369">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1584523574078" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1584523574078">
+    <state width="914" height="168" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
+    <state width="914" height="168" key="GridCell.Tab.0.left" timestamp="1584584036369">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1584523574078" />
+    <state width="914" height="168" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
+    <state width="914" height="168" key="GridCell.Tab.0.right" timestamp="1584584036369">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="168" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
+    <state width="914" height="168" key="GridCell.Tab.1.bottom" timestamp="1584584036369">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="168" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
+    <state width="914" height="168" key="GridCell.Tab.1.center" timestamp="1584584036369">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="168" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
+    <state width="914" height="168" key="GridCell.Tab.1.left" timestamp="1584584036368">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="168" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036368" />
+    <state width="914" height="168" key="GridCell.Tab.1.right" timestamp="1584584036369">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="914" height="168" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
     <state x="640" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1584519369569">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="640" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1584519369569" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/samples/quickstart/src/main/java/Quickstart.java</url>
-          <line>98</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/samples/quickstart/src/main/java/Quickstart.java</url>
-          <line>109</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

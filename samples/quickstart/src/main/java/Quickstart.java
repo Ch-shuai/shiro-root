@@ -51,23 +51,17 @@ public class Quickstart {
         Factory<SecurityManager> factory = new IniSecurityManagerFactory("classpath:shiro.ini");
         //从工厂对象中获取实例
         SecurityManager securityManager = factory.getInstance();
-
-        // for this simple example quickstart, make the SecurityManager
-        // accessible as a JVM singleton.  Most applications wouldn't do this
-        // and instead rely on their container configuration or web.xml for
-        // webapps.  That is outside the scope of this simple quickstart, so
-        // we'll just do the bare minimum so you can continue to get a feel
-        // for things.
         SecurityUtils.setSecurityManager(securityManager);
 
         // Now that a simple Shiro environment is set up, let's see what you can do:
 
-        // get the currently executing user:Subject
+        //调用获取当前执行的用户
         Subject currentUser = SecurityUtils.getSubject();
 
         // Do some stuff with a Session (no need for a web or EJB container!!!)
         Session session = currentUser.getSession();
         session.setAttribute("someKey", "aValue");
+        //session通过key去取出相对应的value，取出来的value是object，需要向下转型
         String value = (String) session.getAttribute("someKey");
         if (value.equals("aValue")) {
             log.info("Retrieved the correct value! [" + value + "]");
@@ -106,7 +100,7 @@ public class Quickstart {
         }
 
         //test a typed permission (not instance-level)
-        if (currentUser.isPermitted("lightsaber:wield")) {
+        if (currentUser.isPermitted("lightsaber:ryfuyfg")) {
             log.info("You may use a lightsaber ring.  Use it wisely.");
         } else {
             log.info("Sorry, lightsaber rings are for schwartz masters only.");
