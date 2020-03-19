@@ -49,7 +49,6 @@ public class WebApp { //NOPMD
     private static Logger log = LoggerFactory.getLogger(WebApp.class);
 
     public static void main(String[] args) {
-
         SpringApplication.run(WebApp.class, args);
     }
 
@@ -72,8 +71,7 @@ public class WebApp { //NOPMD
     @Bean
     public Realm realm() {
         TextConfigurationRealm realm = new TextConfigurationRealm();
-        realm.setUserDefinitions("joe.coder=password,user\n" +
-                "jill.coder=password,admin");
+        realm.setUserDefinitions("joe.coder=password,user\n" + "jill.coder=password,admin");
 
         realm.setRoleDefinitions("admin=read,write\n" +
                 "user=read");

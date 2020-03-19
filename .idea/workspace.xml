@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ad07eb3-da4d-4d1b-a57c-2f3b98fdb24d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/quickstart/src/main/java/Quickstart.java" beforeDir="false" afterPath="$PROJECT_DIR$/samples/quickstart/src/main/java/Quickstart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/quickstart/src/main/resources/shiro.ini" beforeDir="false" afterPath="$PROJECT_DIR$/samples/quickstart/src/main/resources/shiro.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/quickstart/target/classes/shiro.ini" beforeDir="false" afterPath="$PROJECT_DIR$/samples/quickstart/target/classes/shiro.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/spring-hibernate/samples-sprhib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/samples/spring-hibernate/samples-sprhib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/spring-boot-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/samples/spring-boot-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/spring-boot-web/src/main/java/org/apache/shiro/samples/WebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/samples/spring-boot-web/src/main/java/org/apache/shiro/samples/WebApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -48,7 +49,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Quickstart">
+  <component name="RunManager" selected="Spring Boot.WebApp">
     <configuration name="Quickstart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Quickstart" />
       <module name="samples-quickstart" />
@@ -100,50 +101,70 @@
       <updated>1584519310026</updated>
       <workItem from="1584519313517" duration="42000" />
       <workItem from="1584519369229" duration="2659000" />
-      <workItem from="1584581689213" duration="2475000" />
+      <workItem from="1584581689213" duration="8985000" />
     </task>
+    <task id="LOCAL-00001" summary="quick start">
+      <created>1584584303245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584584303245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="quick start" />
+    <option name="LAST_COMMIT_MESSAGE" value="quick start" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="47" y="176" key="CommitChangelistDialog2" timestamp="1584584302450">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="47" y="176" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1584584302450" />
     <state width="397" height="466" key="DebuggerActiveHint" timestamp="1584582830349">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="397" height="466" key="DebuggerActiveHint/0.0.1920.1160@0.0.1920.1160" timestamp="1584582830349" />
-    <state width="914" height="168" key="GridCell.Tab.0.bottom" timestamp="1584584036369">
+    <state width="1877" height="320" key="GridCell.Tab.0.bottom" timestamp="1584594179457">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
-    <state width="914" height="168" key="GridCell.Tab.0.center" timestamp="1584584036369">
+    <state width="1877" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1584594179457" />
+    <state width="1877" height="320" key="GridCell.Tab.0.center" timestamp="1584594179456">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
-    <state width="914" height="168" key="GridCell.Tab.0.left" timestamp="1584584036369">
+    <state width="1877" height="320" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1584594179456" />
+    <state width="1877" height="320" key="GridCell.Tab.0.left" timestamp="1584594179456">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
-    <state width="914" height="168" key="GridCell.Tab.0.right" timestamp="1584584036369">
+    <state width="1877" height="320" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1584594179456" />
+    <state width="1877" height="320" key="GridCell.Tab.0.right" timestamp="1584594179457">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
-    <state width="914" height="168" key="GridCell.Tab.1.bottom" timestamp="1584584036369">
+    <state width="1877" height="320" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1584594179457" />
+    <state width="1877" height="320" key="GridCell.Tab.1.bottom" timestamp="1584594179457">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
-    <state width="914" height="168" key="GridCell.Tab.1.center" timestamp="1584584036369">
+    <state width="1877" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1584594179457" />
+    <state width="1877" height="320" key="GridCell.Tab.1.center" timestamp="1584594179457">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
-    <state width="914" height="168" key="GridCell.Tab.1.left" timestamp="1584584036368">
+    <state width="1877" height="320" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1584594179457" />
+    <state width="1877" height="320" key="GridCell.Tab.1.left" timestamp="1584594179457">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036368" />
-    <state width="914" height="168" key="GridCell.Tab.1.right" timestamp="1584584036369">
+    <state width="1877" height="320" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1584594179457" />
+    <state width="1877" height="320" key="GridCell.Tab.1.right" timestamp="1584594179457">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="914" height="168" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1584584036369" />
+    <state width="1877" height="320" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1584594179457" />
+    <state x="72" y="317" key="Vcs.Push.Dialog.v2" timestamp="1584584305161">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="72" y="317" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1584584305161" />
     <state x="640" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1584519369569">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
